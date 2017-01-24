@@ -126,35 +126,47 @@ E: Eh bien elle est tellement insupportable que personne ne doit venir la voir
 E: Mais bon, je ne pouvais pas en rester là.
 E: Les vieux ça meurt un jour ou l'autre, c'est comme une bombe à retardement...
 E: Non non non non non, trop risqué!
+E: C'est pour ça que j'ai aussi mis une clé dans l'abri au fond du jardin
+P: Et c'est fermé à clé?
+E: Oui bien sûr.. J'étais concierge avant.. Les clés ça me connaît
+
+    -- P: Ca doit être la cause de ses problèmes
+
+E: Mais bon vous savez dans un abri de jardin c'est souvent difficile de retrouver quelque chose
+E: Et même quand on vide tout on ne retombe pas sur ce qu'on cherchait
+E: Trop risqué...
+
+E: Alors j'en ai caché une en ville sous une boîte aux lettres.
+E: Mais bon celle là je pense qu'elle a été volée le jour même..
+P: Ah bon?
+E: Oui.. Il y a beaucoup de jeunes le matin à l'arrêt de bus
+E: Et les jeunes vous savez..
+P: Quoi donc?
+E: Ils volent tout voyons!
+P: Pas tous
+E: ..
 E: Bref au bout d'un temps j'avais caché presque toute mes clés
 E: Mais je me suis rendue compte que chaque cachette était au final très risquée
 
     -- P: Ben tiens... Avec des idées pareilles, c'est sûr
 
-E: Alors j'ai eu une bien meilleure idée
+E: Et surtout j'ai oublié où j'ai mis la plupart des clés
+E: Alors j'ai passé un week-end à chercher une meilleure cachette
+E: Et j'ai eu une super idée
 E: Vous connaissez les poupées russes?
 P: Oui bien sûr
-E: Eh bien voilà, devant ma maison j'ai un grand pot de fleurs
-E: Alors au début de l'année
+E: Eh bien moi j'adore les poupées russes, j'en ai toute une collection
+E: Puis devant ma maison j'ai un grand pot de fleurs et les fleurs ça a toujours été une passion
+E: Alors au début de l'année après la fin de la période glacière
+P: De l'hiver?
+E: Oui oui, après l'hiver, j'ai mis ma dernière clé dans un petit coffre que j'ai fermé à clé. Et j'ai mis ce petit coffre dans un plus grand, lui aussi fermé à clé
+E: Au total il y a 5 coffres autour de ma dernière clé
+E: Et ce mini coffre fort, je l'ai caché dans mon pot de fleurs
+E: Là au moins je sais que je ne l'oublierai jamais
 
-E: Mais bon celle là je pense qu'elle a été volée le jour même
-E: Il y a beaucoup de jeunes le matin et les jeunes vous savez.. Ils volent
+P: Mais qu'avez-vous fait des clés de ces coffres?
 
-E: Oui, j'y ai pensé aussi...
-E: C'est pour ça que j'ai aussi mis une clé dans l'abri au fond du jardin
-P: Et c'est fermé à clé?
-E: Oui bien sûr, j'ai toujours fait attention à la sécurité
-E: J'étais concierge avant
+E: Oh pour ça pas de problème...
+E: J'ai des doubles...
 
-
-clé de secours
-chute:
-oh pour ça pas de problème, j'ai des doubles...
-
-
-
-
-E: Puis un double du double.
-
-P: Et le double du double, qu'en avez vous fait?
-E: Au départ je le gardais à la maison
+    -- P: Oh mon dieu...
